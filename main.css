@@ -1,0 +1,28 @@
+.container{
+    margin: 100px 450px;
+}
+.block{
+    margin: 50px 100px;
+}
+#text{
+    text-align: center;
+    color: red;
+}
+#btn{
+    background-color: blue;
+    color: #fff;
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: #fff;
+    color: blue;
+    border: 1px solid blue;
+}
+#img{
+    width: 600px;
+    height: 400px;
+}
